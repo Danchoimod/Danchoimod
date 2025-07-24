@@ -1,5 +1,3 @@
-# 👋 Xin chào! Tôi là MOD2090
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFD,100:F7D6E0&height=200&section=header&text=MOD2090&fontSize=80&animation=twinkling&fontColor=2F4F4F"/>
