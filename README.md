@@ -62,8 +62,8 @@ const MOD2090 = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOD2090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOD2090&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danchoimod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danchoimod&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -71,7 +71,7 @@ const MOD2090 = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MOD2090&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Danchoimod&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -79,25 +79,25 @@ const MOD2090 = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MOD2090&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Danchoimod&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ## 💻 Dự Án Nổi Bật
 
-### 🌟 [Project Alpha](https://github.com/MOD2090/project-alpha)
+### 🌟 [Project Alpha](https://github.com/Danchoimod/project-alpha)
 > Ứng dụng web hiện đại với React và Node.js
 - ⚡ Performance cao với React 18
 - 🎨 UI/UX đẹp mắt với Tailwind CSS
 - 🔐 Authentication bảo mật
 
-### 🚀 [AI Assistant Bot](https://github.com/MOD2090/ai-bot)
+### 🚀 [AI Assistant Bot](https://github.com/Danchoimod/ai-bot)
 > Chatbot thông minh sử dụng Machine Learning
 - 🤖 Xử lý ngôn ngữ tự nhiên
 - 📊 Phân tích dữ liệu real-time
 - 🔄 Tự học và cải thiện
 
-### 🎮 [Game Engine 2D](https://github.com/MOD2090/game-engine)
+### 🎮 [Game Engine 2D](https://github.com/Danchoimod/game-engine)
 > Engine game 2D được viết bằng C++
 - 🎯 Hiệu suất cao
 - 🎨 Hỗ trợ graphics đa dạng
@@ -119,10 +119,10 @@ HTML         1 hr 5 mins     █░░░░░░░░░░░░░░    4.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOD2090)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MOD2090)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MOD2090)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MOD2090)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danchoimod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Danchoimod)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Danchoimod)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Danchoimod)
 
 </div>
 
@@ -140,15 +140,15 @@ HTML         1 hr 5 mins     █░░░░░░░░░░░░░░    4.
 
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=MOD2090&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/MOD2090?style=social)](https://github.com/MOD2090)
+![Profile Views](https://komarev.com/ghpvc/?username=Danchoimod&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Danchoimod?style=social)](https://github.com/Danchoimod)
 
 **Thanks for visiting my profile! Have a great day! 😊**
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOD2090&bg_color=1a1b27&color=628fdb&line=d5d5d5&point=ff6b6b&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danchoimod&bg_color=1a1b27&color=628fdb&line=d5d5d5&point=ff6b6b&area=true&hide_border=true" />
 </div>
 
 <div align="center">
