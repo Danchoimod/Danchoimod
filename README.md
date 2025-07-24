@@ -105,11 +105,11 @@ const MOD2090 = {
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 30 mins  ████████████░░░   48.2%
-Python       6 hrs 15 mins   ██████░░░░░░░░░   24.1%
-TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░   16.7%
-CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░    8.4%
-HTML         1 hr 5 mins     █░░░░░░░░░░░░░░    4.2%
+Java   12 hrs 30 mins  ████████████░░░   48.2%
+React        6 hrs 15 mins   ██████░░░░░░░░░   24.1%
+Java Script   4 hrs 20 mins   ████░░░░░░░░░░░   16.7%
+XML          2 hrs 10 mins   ██░░░░░░░░░░░░░    8.4%
+SQL         1 hr 5 mins     █░░░░░░░░░░░░░░    4.2%
 ```
 <!--END_SECTION:waka-->
 
