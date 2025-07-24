@@ -4,15 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFD,100:F7D6E0&height=200&section=header&text=MOD2090&fontSize=80&animation=twinkling&fontColor=2F4F4F"/>
 
-```
-███╗   ███╗ ██████╗ ██████╗ ██████╗  ██████╗  █████╗  ██████╗ 
-████╗ ████║██╔═══██╗██╔══██╗╚════██╗██╔═████╗██╔══██╗██╔═████╗
-██╔████╔██║██║   ██║██║  ██║ █████╔╝██║██╔██║╚██████║██║██╔██║
-██║╚██╔╝██║██║   ██║██║  ██║██╔═══╝ ████╔╝██║ ╚═══██║████╔╝██║
-██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗╚██████╔╝ █████╔╝╚██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚════╝  ╚═════╝ 
-```
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%8C%9F+Developer+%E2%80%A2+Creator+%E2%80%A2+Innovator+%F0%9F%8C%9F;%E2%9A%A1+Coding+is+my+passion+%E2%9A%A1;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe!+%F0%9F%8C%8C;I'm+MOD2090+%F0%9F%91%8B+Nice+to+meet+you!;Full-Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9+%26+Code+Enthusiast;Always+Learning+%F0%9F%9A%80+Never+Stopping;Let's+build+something+amazing+together!+%E2%9C%A8)](https://git.io/typing-svg)
