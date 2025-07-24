@@ -9,7 +9,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ### 🎯 Currently Working On
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=4CAF50&center=true&vCenter=true&width=600&lines=React+Native+Mobile+App+%F0%9F%93%B1;AI+Machine+Learning+Projects+%F0%9F%A4%96;Open+Source+Contributions+%F0%9F%8C%8D;Web3+%26+Blockchain+Development+%E2%9B%93;Game+Development+with+Unity+%F0%9F%8E%AE)](https://git.io/typing-svg)
+
+**React Native Mobile App** 📱 • **AI Machine Learning Projects** 🤖 • **Open Source Contributions** 🌍
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -146,7 +147,12 @@ HTML         1 hr 5 mins     █░░░░░░░░░░░░░░    4.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MOD2090/MOD2090/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOD2090&bg_color=1a1b27&color=628fdb&line=d5d5d5&point=ff6b6b&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Have+a+great+day!+%E2%98%80%EF%B8%8F;Let's+connect+and+build+together!+%F0%9F%9A%80" />
 
 ---
 
