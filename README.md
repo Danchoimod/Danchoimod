@@ -23,7 +23,7 @@ Xin chào! Tôi là **MOD2090** - một developer đam mê công nghệ và luô
 ```javascript
 const MOD2090 = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
+    code: ["JavaScript", "Python", "Java", "C"],
     askMeAbout: ["web dev", "tech", "app dev", "gaming"],
     technologies: {
         frontEnd: {
@@ -31,11 +31,10 @@ const MOD2090 = {
             css: ["Sass", "Tailwind", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express", "Next.js"],
-            python: ["Django", "Flask", "FastAPI"],
+            js: ["Node""],
             databases: ["MongoDB", "MySQL", "PostgreSQL"]
         },
-        devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
+        devOps: ["GitHub Actions"],
         tools: ["VS Code", "Git", "Figma", "Postman"]
     },
     currentFocus: "Building the future, one line of code at a time",
@@ -88,18 +87,6 @@ const MOD2090 = {
 - ⚡ Performance cao với React 18
 - 🎨 UI/UX đẹp mắt với Tailwind CSS
 - 🔐 Authentication bảo mật
-
-### 🚀 [AI Assistant Bot](https://github.com/Danchoimod/ai-bot)
-> Chatbot thông minh sử dụng Machine Learning
-- 🤖 Xử lý ngôn ngữ tự nhiên
-- 📊 Phân tích dữ liệu real-time
-- 🔄 Tự học và cải thiện
-
-### 🎮 [Game Engine 2D](https://github.com/Danchoimod/game-engine)
-> Engine game 2D được viết bằng C++
-- 🎯 Hiệu suất cao
-- 🎨 Hỗ trợ graphics đa dạng
-- 🔧 Tools phát triển game
 
 ## 📊 Coding Activity
 
