@@ -8,7 +8,7 @@
 
 ### 🎯 Currently Working On
 
-**React Native Mobile App** 📱 • **AI Machine Learning Projects** 🤖 • **Open Source Contributions** 🌍
+**React Native Mobile App** 📱 • **Android developer (java)** 🤖 • **Open Source Contributions** 🌍
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
