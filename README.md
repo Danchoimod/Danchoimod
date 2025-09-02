@@ -23,19 +23,19 @@ Xin chào! Tôi là **MOD2090** - một developer đam mê công nghệ và luô
 ```javascript
 const MOD2090 = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "Python", "Java", "C"],
-    askMeAbout: ["web dev", "tech", "app dev", "gaming"],
+    code: ["JavaScript", "Python", "Java", "C","C#"],
+    askMeAbout: ["web dev", "tech", "app dev", "game dev","tools dev"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
+            js: ["React", "Vue"],
+            css: [, "Tailwind", "Bootstrap"]
         },
         backEnd: {
             js: ["Node""],
-            databases: ["MongoDB", "MySQL", "PostgreSQL"]
+            databases: ["Supabase", "MySQL", "PostgreSQL","Firebase","Mongodb]
         },
         devOps: ["GitHub Actions"],
-        tools: ["VS Code", "Git", "Figma", "Postman"]
+        tools: ["VS Code", "Git", "Figma", "godot", Unity]
     },
     currentFocus: "Building the future, one line of code at a time",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
