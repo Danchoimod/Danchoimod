@@ -6,9 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-### 🎯 Currently Working On
+### 🎯 Hiện tại mình tập trung vào
 
-**React** 📱 • **Android developer (java)** 🤖 • **Open Source Contributions** 🌍
+**React** 📱 • **Lập trình Android (Java)** 🤖 • **Đóng góp mã nguồn mở** 🌍
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -18,49 +18,49 @@
 
 ## 🚀 Về Tôi
 
-Xin chào! Tôi là **MOD2090** - một developer đam mê công nghệ và luôn tìm kiếm những thách thức mới. Tôi tin rằng code không chỉ là công cụ mà còn là nghệ thuật để tạo ra những điều tuyệt vời.
+Xin chào! Mình là **MOD2090** - một developer đam mê công nghệ, thích thử thách và luôn học hỏi cái mới. Coding là nghệ thuật tạo ra giá trị, mình luôn nỗ lực để mỗi dòng code đều có ý nghĩa.
 
 ```javascript
 const MOD2090 = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "Python", "Java", "C","C#"],
-    askMeAbout: ["web dev", "tech", "app dev", "game dev","tools dev"],
+    code: ["JavaScript", "Java", "Python", "C", "C#"],
+    askMeAbout: ["web dev", "app dev", "game dev", "tools dev"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue"],
-            css: [, "Tailwind", "Bootstrap"]
+            css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node""],
-            databases: ["Supabase", "MySQL", "PostgreSQL","Firebase","Mongodb]
+            js: ["Node"],
+            databases: ["Supabase", "MySQL", "PostgreSQL", "Firebase", "MongoDB"]
         },
         devOps: ["GitHub Actions"],
-        tools: ["VS Code", "Git", "Figma", "godot", Unity]
+        tools: ["VS Code", "Git", "Figma", "Godot", "Unity"]
     },
-    currentFocus: "Building the future, one line of code at a time",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    currentFocus: "Xây dựng tương lai qua từng dòng code",
+    funFact: "console.log() là bạn thân nhất khi debug 😄"
 };
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Ngôn ngữ & Công nghệ chính
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
-
 </div>
 
-## 📈 GitHub Stats
+---
+
+## 📈 Thống kê GitHub
 
 <div align="center">
 
@@ -85,27 +85,33 @@ const MOD2090 = {
 
 </div>
 
+---
+
 ## 💻 Dự Án Nổi Bật
 
 ### 🌟 [Project Alpha](https://github.com/Danchoimod/project-alpha)
 > Ứng dụng web hiện đại với React và Node.js
-- ⚡ Performance cao với React 18
-- 🎨 UI/UX đẹp mắt với Tailwind CSS
-- 🔐 Authentication bảo mật
+- ⚡ Hiệu năng cao với React 18
+- 🎨 Giao diện đẹp với Tailwind CSS
+- 🔐 Bảo mật đăng nhập
+
+---
 
 ## 📊 Coding Activity
 
 <!--START_SECTION:waka-->
 ```text
-Java   12 hrs 30 mins        ████████████░░░   48.2%
-React        6 hrs 15 mins   ██████░░░░░░░░░   24.1%
-Java Script   4 hrs 20 mins  ████░░░░░░░░░░░   16.7%
-XML          2 hrs 10 mins   ██░░░░░░░░░░░░░    8.4%
-SQL         1 hr 5 mins      █░░░░░░░░░░░░░░    4.2%
+Java         12 hrs 30 mins  ████████████░░░   48.2%
+React         6 hrs 15 mins  ██████░░░░░░░░░   24.1%
+JavaScript    4 hrs 20 mins  ████░░░░░░░░░░░   16.7%
+XML           2 hrs 10 mins  ██░░░░░░░░░░░░░    8.4%
+SQL           1 hr 5 mins    █░░░░░░░░░░░░░░    4.2%
 ```
 <!--END_SECTION:waka-->
 
-## 🤝 Kết Nối Với Tôi
+---
+
+## 🤝 Kết Nối
 
 <div align="center">
 
@@ -115,6 +121,8 @@ SQL         1 hr 5 mins      █░░░░░░░░░░░░░░    4.
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Danchoimod)
 
 </div>
+
+---
 
 ## 💭 Quote of the Day
 
@@ -128,12 +136,12 @@ SQL         1 hr 5 mins      █░░░░░░░░░░░░░░    4.
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
+### 🌟 "Code cũng giống như hài hước. Nếu phải giải thích thì nó không tốt." 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Danchoimod&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/Danchoimod?style=social)](https://github.com/Danchoimod)
 
-**Thanks for visiting my profile! Have a great day! 😊**
+**Cảm ơn bạn đã ghé thăm profile mình! Chúc một ngày tuyệt vời 😊**
 
 </div>
 
@@ -143,6 +151,7 @@ SQL         1 hr 5 mins      █░░░░░░░░░░░░░░    4.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Have+a+great+day!+%E2%98%80%EF%B8%8F;Let's+connect+and+build+together!+%F0%9F%9A%80" />
+</div>
 
 ---
 
