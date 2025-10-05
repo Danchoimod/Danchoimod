@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20MOD2090%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Tech%20Innovation%20Advocate&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20MOD2090%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Tech%20Innovation%20Advocate&descAlignY=55&descSize=18"/>
 
 ### 🌟 Developer • Creator • Innovator 🌟
 
