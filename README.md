@@ -8,7 +8,7 @@
 
 ### 🎯 Hiện tại mình tập trung vào
 
-**React** 📱 • **Lập trình Android (Java)** 🤖 • **Đóng góp mã nguồn mở** 🌍
+**React** 📱 • **Golang** 🚀 • **Lập trình Android (Java)** 🤖 • **Đóng góp mã nguồn mở** 🌍
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -23,8 +23,8 @@ Xin chào! Mình là **MOD2090** - một developer đam mê công nghệ, thích
 ```javascript
 const MOD2090 = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "Java", "Python", "C", "C#"],
-    askMeAbout: ["web dev", "app dev", "game dev", "tools dev"],
+    code: ["JavaScript", "Java", "Python", "Go", "C", "C#"],
+    askMeAbout: ["web dev", "app dev", "game dev", "tools dev", "backend systems"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue"],
@@ -32,9 +32,10 @@ const MOD2090 = {
         },
         backEnd: {
             js: ["Node"],
+            go: ["Gin", "Fiber", "Echo"],
             databases: ["Supabase", "MySQL", "PostgreSQL", "Firebase", "MongoDB"]
         },
-        devOps: ["GitHub Actions"],
+        devOps: ["GitHub Actions", "Docker"],
         tools: ["VS Code", "Git", "Figma", "Godot", "Unity"]
     },
     currentFocus: "Xây dựng tương lai qua từng dòng code",
@@ -48,10 +49,12 @@ const MOD2090 = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -93,16 +96,22 @@ const MOD2090 = {
 - 🎨 Giao diện đẹp với Tailwind CSS
 - 🔐 Bảo mật đăng nhập
 
+### 🚀 [Go Microservices](https://github.com/Danchoimod/go-microservices)
+> Backend microservices với Golang
+- ⚡ Hiệu năng vượt trội với Go
+- 🔄 RESTful API design
+- 📦 Containerized với Docker
+
 ---
 
 ## 📊 Coding Activity
 
 <!--START_SECTION:waka-->
 ```text
-Java         12 hrs 30 mins  ████████████░░░   48.2%
-React         6 hrs 15 mins  ██████░░░░░░░░░   24.1%
-JavaScript    4 hrs 20 mins  ████░░░░░░░░░░░   16.7%
-XML           2 hrs 10 mins  ██░░░░░░░░░░░░░    8.4%
+Java         10 hrs 30 mins  ████████████░░░   40.5%
+Go            7 hrs 45 mins  ████████░░░░░░░   29.9%
+React         4 hrs 15 mins  ████░░░░░░░░░░░   16.4%
+JavaScript    2 hrs 20 mins  ██░░░░░░░░░░░░░    9.0%
 SQL           1 hr 5 mins    █░░░░░░░░░░░░░░    4.2%
 ```
 <!--END_SECTION:waka-->
