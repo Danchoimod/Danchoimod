@@ -8,7 +8,7 @@
 
 ### 🎯 Hiện tại mình tập trung vào
 
-**React** 📱 • **Golang** 🚀 • **Lập trình Android (Java)** 🤖 • **Đóng góp mã nguồn mở** 🌍
+**React** 📱 • **Golang** 🚀 • **C++** ⚡ • **Lập trình Android (Java)** 🤖 • **Đóng góp mã nguồn mở** 🌍
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -23,8 +23,8 @@ Xin chào! Mình là **MOD2090** - một developer đam mê công nghệ, thích
 ```javascript
 const MOD2090 = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "Java", "Python", "Go", "C", "C#"],
-    askMeAbout: ["web dev", "app dev", "game dev", "tools dev", "backend systems"],
+    code: ["JavaScript", "Java", "Python", "Go", "C++", "C", "C#"],
+    askMeAbout: ["web dev", "app dev", "game dev", "tools dev", "backend systems", "system programming"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue"],
@@ -50,6 +50,7 @@ const MOD2090 = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -101,6 +102,12 @@ const MOD2090 = {
 - ⚡ Hiệu năng vượt trội với Go
 - 🔄 RESTful API design
 - 📦 Containerized với Docker
+
+### ⚡ [C++ Game Engine](https://github.com/Danchoimod/cpp-game-engine)
+> Game engine tối ưu với C++
+- 🎮 Rendering engine hiệu suất cao
+- 🔧 Physics simulation
+- 🎨 Cross-platform support
 
 ---
 
