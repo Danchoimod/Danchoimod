@@ -22,7 +22,9 @@
 <p align="left">
 <a href="https://x.com/TTPGamer269994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Danchoimod" height="30" width="40" /></a>
 <a href="https://discord.com/users/608683762854658078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Danchoimod" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/tranphupham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Danchoimod" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tranphupham" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Danchoimod" height="30" width="40" />
+</a>
 </p>
 
 ---
