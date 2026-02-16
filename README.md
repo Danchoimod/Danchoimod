@@ -10,14 +10,6 @@
 
 ---
 
-### Blog posts
-- empty
-- empty
-- empty
-- empty
-
----
-
 ### Connect with me:
 <p align="left">
 <a href="https://x.com/TTPGamer269994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Danchoimod" height="30" width="40" /></a>
