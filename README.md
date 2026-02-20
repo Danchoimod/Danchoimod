@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **[Modern Web Platform](https://github.com/Danchoimod/project-alpha)**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, JavaScript, and System Design**
-- 📫 How to reach me: **tranphupham2k5@gmail.com**
+- 📫 How to reach me: **tranphup915@gmail.com**
 - ⚡ Fun fact: **"Code is like humor. When you have to explain it, it's bad."**
 
 ---
