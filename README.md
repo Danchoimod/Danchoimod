@@ -1,6 +1,6 @@
 # Hi there👋
 
-### Backend Developer | System Architect
+### Backend Developer
 
 - 🔭 I’m currently working on **[LF Launcher]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
